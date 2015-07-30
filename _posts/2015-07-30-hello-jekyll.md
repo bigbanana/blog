@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '使用免费的gitpages建立一个学习博客'
+title: '使用免费的Github Pages建立一个学习博客'
 category: 日志
 tags: 博客 GitHub Jekyll Markdown 前端 
 ---
