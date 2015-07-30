@@ -12,7 +12,7 @@ tags: 编辑器 sublime
 
 运行SublimeText3 点击 Preferneces -> Browse Packages 会打开 X:\Program Files\Sublime Text\Data\Packages 目录，点击向上并找到X:\Program Files\Sublime Text\Data\Installed Packages目录，从附件中下载汉化包并解压，复制Default.sublime-package到这个目录，无需重启即可直接看到汉化效果。
 
-[中文语言包](http://bigbanana.github.com/web/Sublime_Text_CN_3059.zip)
+[中文语言包](http://bigbanana.github.com/web/files/Sublime_Text_CN_3059.zip)
 
 ### 3. 添加许可证
 
