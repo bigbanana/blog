@@ -14,6 +14,8 @@ tags: 编辑器 sublime
 
 [中文语言包](http://bigbanana.github.com/web/files/Sublime_Text_CN_3059.zip)
 
+注：汉化前先安装package-control不然会有奇怪的错误。
+
 ### 3. 添加许可证
 
 运行SublimeText3 点击 帮助 -> 添加许可证 输入以下代码。
