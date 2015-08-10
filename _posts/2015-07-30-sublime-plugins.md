@@ -5,6 +5,8 @@ category: 编辑器
 tags: 编辑器 sublime 
 ---
 
+
+
 ### Emmet 
 
 Emmet 是一个前端开发的利器，其前身是 Zen Coding。它让编写 HTML 代码变得简单。
@@ -15,11 +17,17 @@ Emmet 是一个前端开发的利器，其前身是 Zen Coding。它让编写 HT
 
 [GitHub](https://github.com/sergeche/emmet-sublime)
 
+
+
+
 ### 主题 Flatland
 
 非常好看。
 
 ![colorpicker](http://bigbanana.github.io/web/files/flatland.png)
+
+
+
 
 ### SublimeCodeIntel 
 
@@ -33,6 +41,9 @@ Sublime​Code​Intel 是一个代码提示、补全插件，支持 JavaScript�
 
 [GitHub](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 
+
+
+
 ### ColorPicker 
 
 在编辑CSS样式的时候，要加个自己喜欢颜色或改改颜色啥的，要到PS里去调色？ColorPicker 可以让 Sublime Text 3内置一个调色盘，调好颜色，点击OK就会在光标处生成十六进制颜色代码。
@@ -43,17 +54,34 @@ Sublime​Code​Intel 是一个代码提示、补全插件，支持 JavaScript�
 
 [GitHub](https://github.com/weslly/ColorPicker)
 
+
+
+
+### BracketHighlighter
+
+这个插件会使你的标签高亮看起来十分明显，个人感觉挺有用的。
+
+![colorpicker](http://bigbanana.github.io/web/files/brackethighlighter.png)
+
+
+
+
 ### Tag
 
 Tag插件的作用是格式化html。
 
 使用方法：选择一段文本 `Ctrl+Alt+F`
 
+
+
+
 ### JsFormat
 
 JsFormat插件作用是格式化javascript。
 
 使用方法：选择一段文本 `Control+Alt+F`
+
+
 
 ### DocBlockr
 
