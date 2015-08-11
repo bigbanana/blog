@@ -2,8 +2,12 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var proxy = "__PROXY__";
-
+//自定义的rules
 var rules = [
+  "||cloud-cdn-digitalocean-com.global.ssl.fastly.net"
+];
+//GFWList上的rules
+rules = rules.concat([
   ".lsxszzg.com",
   "|http://85.17.73.31/",
   "||alien-ufos.com",
@@ -3858,7 +3862,7 @@ var rules = [
   "@@||zhongsou.com",
   "@@|https://autoproxy.org",
   "@@|http://ime.baidu.jp"
-];
+]);
 
 /*
 * This file is part of Adblock Plus <http://adblockplus.org/>,
