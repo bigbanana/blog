@@ -4,7 +4,8 @@
 var proxy = "__PROXY__";
 //自定义的rules
 var rules = [
-  "||cloud-cdn-digitalocean-com.global.ssl.fastly.net"
+  "||cloud-cdn-digitalocean-com.global.ssl.fastly.net",
+  "||tumblr.com"
 ];
 //GFWList上的rules
 rules = rules.concat([
