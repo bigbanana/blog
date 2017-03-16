@@ -2,7 +2,7 @@ markdown: kramdown
 permalink: /:title/
 baseUrl: /blog
 url: http://bigbanana.github.com/blog
-name: web
+name: blog
 author: skxtay
 qq: 564493634
 email: skxtay@gmail.com
