@@ -8,7 +8,7 @@ qq: 564493634
 email: skxtay@gmail.com
 duoshuo: skxtay
 github: bigbanana
-pygments: true
+highlighter: rouge
 safe: true
 paginate: 20
 about: "前端资源整合"
