@@ -1,4 +1,4 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /:title/
 baseUrl: /blog
 url: http://bigbanana.github.com/blog
