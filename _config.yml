@@ -1,7 +1,7 @@
 markdown: rdiscount
 permalink: /:title/
-baseUrl: /web
-url: http://bigbanana.github.com/web
+baseUrl: /blog
+url: http://bigbanana.github.com/blog
 name: web
 author: skxtay
 qq: 564493634
